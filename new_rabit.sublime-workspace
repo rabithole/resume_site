@@ -116,10 +116,19 @@
 			}
 		},
 		{
+			"file": "single-portfolio-1.html",
+			"settings":
+			{
+				"buffer_size": 9496,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 86598,
+				"buffer_size": 86587,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -158,9 +167,10 @@
 	"expanded_folders":
 	[
 		"/C/xampp/htdocs/template",
-		"/C/xampp/htdocs/template/assets/css",
-		"/C/xampp/htdocs/template/products%2FWB0394407/berg-v2.0/Documentation",
-		"/C/xampp/htdocs/template/products%2FWB0394407/berg-v2.0/Documentation/assets/js"
+		"/C/xampp/htdocs/template/assets",
+		"/C/xampp/htdocs/template/assets/docs",
+		"/C/xampp/htdocs/template/contact",
+		"/C/xampp/htdocs/template/contact/PHPMailer"
 	],
 	"file_history":
 	[
@@ -314,6 +324,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"resume",
+			"docs",
+			"doc",
+			"docs",
 			"ng-repeat",
 			"externalLinks",
 			"title",
@@ -422,10 +436,10 @@
 			"section",
 			"header"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
 			"absoluteLinks",
@@ -469,12 +483,12 @@
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
-		"wrap": true
+		"wrap": false
 	},
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -504,30 +518,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 1,
-					"file": "index.html",
+					"file": "single-portfolio-1.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 86598,
+						"buffer_size": 9496,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								412,
+								418
 							]
 						],
 						"settings":
@@ -537,10 +545,46 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 17.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8653,
+								8653
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3581.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -574,7 +618,7 @@
 		"cols":
 		[
 			0.0,
-			0.418740849193,
+			0.230408697839,
 			1.0
 		],
 		"rows":
@@ -626,7 +670,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -634,7 +678,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 511.0,
+	"side_bar_width": 342.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
