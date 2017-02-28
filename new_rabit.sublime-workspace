@@ -108,23 +108,6 @@
 	"buffers":
 	[
 		{
-			"file": "assets/js/animation.js",
-			"settings":
-			{
-				"buffer_size": 6318,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "single-portfolio-1.html",
-			"settings":
-			{
-				"buffer_size": 9496,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "index.html",
 			"settings":
 			{
@@ -168,12 +151,15 @@
 	[
 		"/C/xampp/htdocs/template",
 		"/C/xampp/htdocs/template/assets",
+		"/C/xampp/htdocs/template/assets/css",
 		"/C/xampp/htdocs/template/assets/docs",
 		"/C/xampp/htdocs/template/contact",
 		"/C/xampp/htdocs/template/contact/PHPMailer"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/template/assets/js/animation.js",
+		"/C/xampp/htdocs/template/single-portfolio-1.html",
 		"/C/Users/Robert Kulp/Desktop/practice/practice_II/css/ang_first_practice.css",
 		"/C/Users/Robert Kulp/Desktop/practice/practice_II/js/firstAngApp.js",
 		"/C/Users/Robert Kulp/Desktop/practice/practice.html",
@@ -299,9 +285,7 @@
 		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/yurt.html",
 		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/events.css",
 		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/history.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/yurt.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/tent.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/rv.css"
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/yurt.css"
 	],
 	"find":
 	{
@@ -488,77 +472,11 @@
 	"groups":
 	[
 		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "assets/js/animation.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6318,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "single-portfolio-1.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9496,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								412,
-								418
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 17.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
-			]
-		},
-		{
 			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 0,
 					"file": "index.html",
 					"semi_transient": false,
 					"settings":
@@ -570,8 +488,8 @@
 						"selection":
 						[
 							[
-								8653,
-								8653
+								811,
+								865
 							]
 						],
 						"settings":
@@ -581,7 +499,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3581.0,
+						"translation.y": 108.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -607,18 +525,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.230408697839,
 			1.0
 		],
 		"rows":
@@ -670,7 +581,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -678,7 +589,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 342.0,
+	"side_bar_width": 207.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
