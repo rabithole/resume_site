@@ -111,9 +111,27 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 86587,
+				"buffer_size": 85837,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/htmlIncludes/header.html",
+			"settings":
+			{
+				"buffer_size": 848,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/angular/header.js",
+			"settings":
+			{
+				"buffer_size": 136,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -151,13 +169,15 @@
 	[
 		"/C/xampp/htdocs/template",
 		"/C/xampp/htdocs/template/assets",
-		"/C/xampp/htdocs/template/assets/css",
-		"/C/xampp/htdocs/template/assets/docs",
-		"/C/xampp/htdocs/template/contact",
+		"/C/xampp/htdocs/template/assets/angular",
+		"/C/xampp/htdocs/template/assets/css/colors",
 		"/C/xampp/htdocs/template/contact/PHPMailer"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/template/assets/css/main.css",
+		"/C/xampp/htdocs/template/assets/css/berg.css",
+		"/C/xampp/htdocs/template/assets/css/main.scss",
 		"/C/xampp/htdocs/template/assets/js/animation.js",
 		"/C/xampp/htdocs/template/single-portfolio-1.html",
 		"/C/Users/Robert Kulp/Desktop/practice/practice_II/css/ang_first_practice.css",
@@ -282,10 +302,7 @@
 		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/other_photos.html",
 		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/local_attractions.html",
 		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/google_map.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/yurt.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/events.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/history.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/yurt.css"
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/yurt.html"
 	],
 	"find":
 	{
@@ -472,7 +489,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -481,15 +498,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 86587,
+						"buffer_size": 85837,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								811,
-								865
+								2603,
+								2603
 							]
 						],
 						"settings":
@@ -499,10 +516,75 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 108.0,
+						"translation.y": 1116.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/htmlIncludes/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								848,
+								848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "assets/angular/header.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -525,11 +607,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.532210834553,
 			1.0
 		],
 		"rows":
@@ -589,7 +678,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 207.0,
+	"side_bar_width": 328.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -34,12 +34,13 @@
     <link href="assets/css/main.css" rel="stylesheet" type="text/css">
     
     <!-- Color CSS -->
-    <!--<link href="assets/css/colors/green.css" rel="stylesheet" type="text/css">-->
+    <!-- <link href="assets/css/colors/yellow.css" rel="stylesheet" type="text/css"> -->
     
     <!-- Modernizr JS for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 8]>
     <script src="assets/plugins/modernizr.min.js"></script>
     <![endif]-->
+    <script src="angular/header.js"></script>
 </head>
 
 <!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
@@ -49,32 +50,7 @@
     <![endif]-->
 
   
-    <!-- HERO START -->
-    <header id="home" class="hero bg-slideshow-yes">
-        <div class="hero-body">
-            <div class="hero-text text-center">
-                <h1>
-                    I am Robert Kulp<span class="blinker"></span>
-                </h1>
-                
-                <h1 class="small">Aspiring Web Developer</h1>
-                
-                <p>Father, Photographer, Musician, Writer and Lover of the outdoors.</p>
-
-        
-                
-                <div class="page-scroll">
-                    <a href="#profile" class="btn btn-lg btn-custom">
-                        Know Me Better
-                    </a>
-                </div>
-                <!-- //.page-scroll -->
-            </div>
-            <!-- //.hero-text -->
-        </div>
-        <!-- //.hero-body -->
-    </header>
-    <!-- //HERO END -->
+    <div ng-include="htmlIncludes/header.html"></div>
     
     
     <!-- NAVIGATION START -->
