@@ -169,9 +169,7 @@
 	[
 		"/C/xampp/htdocs/template",
 		"/C/xampp/htdocs/template/assets",
-		"/C/xampp/htdocs/template/assets/angular",
-		"/C/xampp/htdocs/template/assets/css/colors",
-		"/C/xampp/htdocs/template/contact/PHPMailer"
+		"/C/xampp/htdocs/template/assets/angular"
 	],
 	"file_history":
 	[
