@@ -126,7 +126,7 @@
 			{
 				"buffer_size": 11017,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -138,7 +138,10 @@
 			}
 		},
 		{
+			"contents": " <div class=\"navbar-header page-scroll\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".berg-collapse\">\n                    <span class=\"sr-only\">Toggle navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n                \n                <a class=\"navbar-brand visible-xs visible-sm\" href=\"#page-top\">BERG</a>\n            </div>\n            <!-- //.navbar-header -->\n            \n            <div class=\"navbar-collapse collapse berg-collapse\">\n                <ul class=\"nav navbar-nav\">\n                    <li class=\"page-scroll\">\n                        <a href=\"#home\">Home</a>\n                    </li>\n                    \n                    <li class=\"page-scroll\">\n                        <a href=\"#profile\">Profile</a>\n                    </li>\n                    \n                    <li class=\"page-scroll\">\n                        <a href=\"#portfolio\">Portfolio</a>\n                    </li>\n                    \n                    <li class=\"page-scroll\">\n                        <a href=\"#services\">Services</a>\n                    </li>\n                    \n                    <li class=\"page-scroll\">\n                        <a href=\"#resume\">Resume</a>\n                    </li>\n                    \n                    <li class=\"page-scroll\">\n                        <a href=\"#references\">References</a>\n                    </li>\n                    \n                    <li class=\"page-scroll\">\n                        <a href=\"#skills\">Skills</a>\n                    </li>\n                    \n                    <li class=\"page-scroll\">\n                        <a href=\"#contact\">Contact</a>\n                    </li>\n                </ul>\n            </div>\n            <!-- //.navbar-collapse -->",
 			"file": "assets/html_includes/nav.html",
+			"file_size": 1968,
+			"file_write_time": 131333196619666269,
 			"settings":
 			{
 				"buffer_size": 1921,
@@ -147,7 +150,10 @@
 			}
 		},
 		{
+			"contents": "<!-- HERO START -->\n    \n        <div class=\"hero-body\">\n            <div class=\"hero-text text-center\">\n                <h1>\n                    I am Robert Kulp<span class=\"blinker\"></span>\n                </h1>\n                \n                <h1 class=\"small\">Aspiring Web Developer</h1>\n                \n                <p>Father, Photographer, Musician, Writer and Lover of the outdoors.</p>\n\n        \n                \n                <div class=\"page-scroll\">\n                    <a href=\"#profile\" class=\"btn btn-lg btn-custom\">\n                        Know Me Better\n                    </a>\n                </div>\n                <!-- //.page-scroll -->\n            </div>\n            <!-- //.hero-text -->\n        </div>\n        <!-- //.hero-body -->\n    \n    <!-- //HERO END -->",
 			"file": "assets/html_includes/header.html",
+			"file_size": 816,
+			"file_write_time": 131333196619626223,
 			"settings":
 			{
 				"buffer_size": 791,
@@ -200,8 +206,7 @@
 		"/C/xampp/htdocs/template",
 		"/C/xampp/htdocs/template/assets",
 		"/C/xampp/htdocs/template/assets/css",
-		"/C/xampp/htdocs/template/assets/js",
-		"/C/xampp/htdocs/template/assets/plugins/sticky"
+		"/C/xampp/htdocs/template/assets/js"
 	],
 	"file_history":
 	[
@@ -736,7 +741,7 @@
 		"cols":
 		[
 			0.0,
-			0.371274890803,
+			0.552094802955,
 			1.0
 		],
 		"rows":
