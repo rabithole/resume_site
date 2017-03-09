@@ -37,7 +37,7 @@ $(function(){
     /*-------------------------------------------------------------------*/
     /*  4. Page scrolling feature, requires jQuery Easing plugin.
     /*-------------------------------------------------------------------*/
- /*   var pageScroll = function(){
+ /*  var pageScroll = function(){
         $('.page-scroll > a').bind('click', function(e){
             e.preventDefault();
             
@@ -53,7 +53,7 @@ $(function(){
              * Automatically retract the navigation after clicking 
              * on one of the menu items.
              */
- /*           if(!$(this).parent().hasClass('dropdown')){
+       /*     if(!$(this).parent().hasClass('dropdown')){
                 $('.berg-collapse').collapse('hide');
             }
         });
@@ -61,7 +61,7 @@ $(function(){
     
     pageScroll();
     
-    */
+   */ 
     /*-------------------------------------------------------------------*/
     /*  5. Make navigation menu on your page always stay visible.
     /*  Requires jQuery Sticky plugin.
@@ -86,7 +86,7 @@ $(function(){
         stickyMenu();
     });
     
-    
+ 
     /*-------------------------------------------------------------------*/
     /*  6. Navbar dropdown opening on hover,
     /*  and opening on click for collapsed navbar.

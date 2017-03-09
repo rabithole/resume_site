@@ -40,23 +40,27 @@
     <!--[if lt IE 8]>
     <script src="assets/plugins/modernizr.min.js"></script>
     <![endif]-->
+
+    <!-- Angular -->
     <script src="assets/angular/angular.min.js"></script>
     <script src="assets/angular/header.js"></script>
+   
 </head>
 
 <!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
-<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" data-offset="66" ng-app="indexPage" ng-controller="scrollEase">
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" data-offset="66" ng-app="indexPage">
     <!--[if lt IE 10]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <header id="home" class="hero bg-slideshow-yes" ng-include="'assets/html_includes/header.html'">
+    <header id="home" class="hero bg-slideshow-yes" ng-controller="scrollEase" ng-include="'assets/html_includes/header.html'">
     </header>
     
     
     <!-- NAVIGATION START -->
     <nav id="navigation" class="navbar navbar-fixed-top center-menu" role="navigation">
-    <div class="container navbar-container">
+        <div class="container navbar-container" >
+                    
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".berg-collapse">
                     <span class="sr-only">Toggle navigation</span>
@@ -103,8 +107,10 @@
                         <a href="#contact">Contact</a>
                     </li>
                 </ul>
-            </div>
+            
             <!-- //.navbar-collapse -->
+            </div>
+        <!-- //.navbar-container -->
         </div>
         <!-- //.navbar-container -->
         

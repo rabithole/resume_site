@@ -5,14 +5,11 @@
 		
 	});
 
-	indexPage.controller("navControl", function($scope) {
-
-	});
 /*-------------------------------------------------------------------*/
-/*  4. Page scrolling feature, requires jQuery Easing plugin.
-/*-------------------------------------------------------------------*/
-	indexPage.controller("scrollEase", function($scope) {
-			 var pageScroll = function(){
+    /*  4. Page scrolling feature, requires jQuery Easing plugin.
+    /*-------------------------------------------------------------------*/
+    indexPage.controller('scrollEase', function($scope) {
+         var pageScroll = function(){
         $('.page-scroll > a').bind('click', function(e){
             e.preventDefault();
             
@@ -33,7 +30,9 @@
             }
         });
     };
-    
     pageScroll();
-	});
+});
+    
+    
+
 }());
