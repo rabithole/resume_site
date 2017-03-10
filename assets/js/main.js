@@ -66,7 +66,7 @@ $(function(){
     /*  5. Make navigation menu on your page always stay visible.
     /*  Requires jQuery Sticky plugin.
     /*-------------------------------------------------------------------*/
-    var stickyMenu = function(){
+ /* var stickyMenu = function(){
         var ww = Math.max($(window).width(), window.innerWidth),
         nav = $('.navbar.navbar-fixed-top');
 
@@ -85,13 +85,12 @@ $(function(){
     $(window).smartresize(function(){
         stickyMenu();
     });
-    
  
     /*-------------------------------------------------------------------*/
     /*  6. Navbar dropdown opening on hover,
     /*  and opening on click for collapsed navbar.
     /*-------------------------------------------------------------------*/
-    var toggleNavbarMethod = function(){
+ /*   var toggleNavbarMethod = function(){
         var ww = Math.max($(window).width(), window.innerWidth),
         dropdown = $('.navbar .dropdown');
         
@@ -122,10 +121,10 @@ $(function(){
     /*-------------------------------------------------------------------*/
     /*  7. Prevent bootstrap dropdown closing when clicked.
     /*-------------------------------------------------------------------*/
-    $('.dropdown-menu').click(function(e){
+  /*  $('.dropdown-menu').click(function(e){
         e.stopPropagation();
     });
-    
+    */
  
     /*-------------------------------------------------------------------*/
     /*  8. Portfolio gallery. Requires jQuery Magnific Popup plugin.

@@ -44,6 +44,7 @@
     <!-- Angular -->
     <script src="assets/angular/angular.min.js"></script>
     <script src="assets/angular/header.js"></script>
+    <script src="assets/angular/nav.js"></script>
    
 </head>
 
@@ -58,9 +59,8 @@
     
     
     <!-- NAVIGATION START -->
-    <nav id="navigation" class="navbar navbar-fixed-top center-menu" role="navigation">
-        <div class="container navbar-container" >
-                    
+    <nav id="navigation" class="navbar navbar-fixed-top center-menu" role="navigation" ng-controller="navControl">
+        <div class="container navbar-container">
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".berg-collapse">
                     <span class="sr-only">Toggle navigation</span>
@@ -110,10 +110,9 @@
             
             <!-- //.navbar-collapse -->
             </div>
-        <!-- //.navbar-container -->
+        <!-- //.navbar-container -->     
         </div>
-        <!-- //.navbar-container -->
-        
+        <!-- //.navbar-container -->   
     </nav>
     <!-- //NAVIGATION END -->
     
