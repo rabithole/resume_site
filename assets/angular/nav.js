@@ -1,7 +1,11 @@
 (function() {
 	var indexPage = angular.module("indexPage", []);
 
-	indexPage.controller('navControl', function($scope) {
+	indexPage.directive('navControl', function() {
+
+        return {
+            templateUrl: "assets/html_includes/nav.html"
+        };
     /*-------------------------------------------------------------------*/
     /*  5. Make navigation menu on your page always stay visible.
     /*  Requires jQuery Sticky plugin.
