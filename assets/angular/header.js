@@ -1,7 +1,7 @@
 (function() {
-	var indexPage = angular.module("indexPage", []);
-
-	indexPage.controller('headerControl', function($scope) {
-		
-	});
+    indexPage.directive("headerControl", function() {
+        return {
+            templateUrl: "assets/html_includes/header.html"
+        };
+    });
 }());
