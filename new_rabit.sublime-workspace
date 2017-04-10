@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"nav",
+				"navControl"
+			],
+			[
 				"html",
 				"html_includes"
 			],
@@ -115,16 +119,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 83949,
+				"buffer_size": 84321,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "assets/html_includes/nav.html",
+			"file": "assets/angular/indexPage.js",
 			"settings":
 			{
-				"buffer_size": 2260,
+				"buffer_size": 48,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -133,17 +137,27 @@
 			"file": "assets/angular/nav.js",
 			"settings":
 			{
-				"buffer_size": 1752,
+				"buffer_size": 1533,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "profile-1-profile-picture-on-left.html",
+			"file": "assets/html_includes/nav.html",
 			"settings":
 			{
-				"buffer_size": 85823,
-				"line_ending": "Unix"
+				"buffer_size": 2015,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/main.js",
+			"settings":
+			{
+				"buffer_size": 11115,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -155,10 +169,10 @@
 			}
 		},
 		{
-			"file": "assets/js/main.js",
+			"file": "assets/angular/navControl.js",
 			"settings":
 			{
-				"buffer_size": 11011,
+				"buffer_size": 2306,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -167,7 +181,7 @@
 			"file": "assets/angular/header.js",
 			"settings":
 			{
-				"buffer_size": 454,
+				"buffer_size": 169,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -176,7 +190,7 @@
 			"file": "assets/html_includes/header.html",
 			"settings":
 			{
-				"buffer_size": 905,
+				"buffer_size": 745,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -189,12 +203,12 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 129.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 392.0
+		"width": 490.0
 	},
 	"console":
 	{
@@ -216,11 +230,13 @@
 	[
 		"/C/xampp/htdocs/template",
 		"/C/xampp/htdocs/template/assets",
-		"/C/xampp/htdocs/template/assets/html_includes"
+		"/C/xampp/htdocs/template/assets/angular",
+		"/C/xampp/htdocs/template/assets/js"
 	],
 	"file_history":
 	[
 		"/C/xampp/htdocs/template/profile-1-profile-picture-on-left.html",
+		"/C/xampp/htdocs/template/new_rabit.sublime-project",
 		"/C/xampp/htdocs/template/assets/html_includes/header.html",
 		"/C/xampp/htdocs/angular-practice/js/first_html.js",
 		"/C/xampp/htdocs/template/assets/angular/header.js",
@@ -346,12 +362,11 @@
 		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/events.html",
 		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/rules.css",
 		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/vista_photos.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/tent.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/rv.html"
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/tent.html"
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 43.0
 	},
 	"find_in_files":
 	{
@@ -371,6 +386,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"navControl",
+			"indexPage",
+			"Angular",
+			"angular",
+			"class",
+			"\">\n",
+			"class",
+			"href",
+			"}());",
 			"scrollEase",
 			"scroll",
 			"scrollEase",
@@ -541,7 +565,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -550,37 +574,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 83949,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3053,
-								3053
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1502.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "assets/html_includes/nav.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2260,
+						"buffer_size": 84321,
 						"regions":
 						{
 						},
@@ -598,10 +592,38 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 75.0,
+						"translation.y": 936.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/angular/indexPage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -610,15 +632,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1752,
+						"buffer_size": 1533,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								379,
-								379
+								1532,
+								1532
 							]
 						],
 						"settings":
@@ -628,42 +650,74 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 150.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "profile-1-profile-picture-on-left.html",
+					"file": "assets/html_includes/nav.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 85823,
+						"buffer_size": 2015,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								108,
+								108
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
+					"file": "assets/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1297,
+								1297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"semi_transient": false,
 					"settings":
 					{
@@ -686,60 +740,58 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 8,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 5,
-					"file": "assets/js/main.js",
+					"buffer": 6,
+					"file": "assets/angular/navControl.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11011,
+						"buffer_size": 2306,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3230,
-								3230
+								374,
+								374
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 825.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "assets/angular/header.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 454,
+						"buffer_size": 169,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								223,
-								223
+								169,
+								164
 							]
 						],
 						"settings":
@@ -756,20 +808,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "assets/html_includes/header.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 905,
+						"buffer_size": 745,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								88,
+								88
 							]
 						],
 						"settings":
@@ -782,7 +834,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -790,7 +842,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 42.0
 	},
 	"input":
 	{
@@ -816,7 +868,7 @@
 		"cols":
 		[
 			0.0,
-			0.507149829184,
+			0.288020833333,
 			1.0
 		],
 		"rows":
@@ -834,7 +886,7 @@
 	"project": "new_rabit.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -845,7 +897,7 @@
 		[
 			[
 				"",
-				"css\\print.css"
+				"assets\\html_includes\\header.html"
 			]
 		],
 		"width": 0.0
@@ -861,14 +913,14 @@
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 490.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 757.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
