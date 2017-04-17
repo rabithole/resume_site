@@ -23,7 +23,7 @@ $(function(){
         }
     });
     
-    
+// Transferred to an angular controller. navControl 
     /*-------------------------------------------------------------------*/
     /*  3. Just did another hack of dropdown menu for Bootstrap scrollspy.
     /*-------------------------------------------------------------------*/
@@ -84,6 +84,7 @@ $(function(){
     // $(window).smartresize(function(){
     //     stickyMenu();
     // });
+ // Transferred to an angular controller. navControl 
  
     /*-------------------------------------------------------------------*/
     /*  6. Navbar dropdown opening on hover,

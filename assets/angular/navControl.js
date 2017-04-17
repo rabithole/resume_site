@@ -1,6 +1,8 @@
 (function() {	
-	indexPage.controller('navControl', function($scope) {
-		$scope.event = {
+	indexPage.controller('navControl', ['$scope', function($scope) {
+		$scope.navControl = 
+
+			// console.log("This worked! Or not!");
 			/*-------------------------------------------------------------------*/
 		    /*  3. Just did another hack of dropdown menu for Bootstrap scrollspy.
 		    /*-------------------------------------------------------------------*/
@@ -59,6 +61,6 @@
 		    $(window).smartresize(function(){
 		        stickyMenu();
 		    });
-		}
-	});
+		
+	}]);
 }());
