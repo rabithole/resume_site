@@ -119,7 +119,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 84321,
+				"buffer_size": 5920,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/angular/footer.js",
+			"settings":
+			{
+				"buffer_size": 169,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -142,14 +151,6 @@
 			}
 		},
 		{
-			"file": "assets/angular/nav.js",
-			"settings":
-			{
-				"buffer_size": 201,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "assets/js/main.js",
 			"settings":
 			{
@@ -163,6 +164,15 @@
 			"settings":
 			{
 				"buffer_size": 169,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/angular/nav.js",
+			"settings":
+			{
+				"buffer_size": 201,
 				"line_ending": "Windows"
 			}
 		},
@@ -215,6 +225,32 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/template/assets/html_includes/footer.html",
+		"/C/xampp/htdocs/template/assets/angular/contact.js",
+		"/C/xampp/htdocs/template/assets/html_includes/contact.html",
+		"/C/xampp/htdocs/template/assets/angular/workprocess.js",
+		"/C/xampp/htdocs/template/assets/html_includes/workprocess.html",
+		"/C/xampp/htdocs/template/assets/angular/milestones.js",
+		"/C/xampp/htdocs/template/assets/html_includes/milestones.html",
+		"/C/xampp/htdocs/template/assets/angular/accolades.js",
+		"/C/xampp/htdocs/template/assets/html_includes/accolades.html",
+		"/C/xampp/htdocs/template/assets/angular/knowledge.js",
+		"/C/xampp/htdocs/template/assets/html_includes/knowledge.html",
+		"/C/xampp/htdocs/template/assets/angular/skills.js",
+		"/C/xampp/htdocs/template/assets/html_includes/skills.html",
+		"/C/xampp/htdocs/template/assets/angular/references.js",
+		"/C/xampp/htdocs/template/assets/html_includes/references.html",
+		"/C/xampp/htdocs/template/assets/angular/resume.js",
+		"/C/xampp/htdocs/template/assets/html_includes/resume.html",
+		"/C/xampp/htdocs/template/assets/angular/strengths.js",
+		"/C/xampp/htdocs/template/assets/html_includes/strengths.html",
+		"/C/xampp/htdocs/template/assets/html_includes/strenghts.html",
+		"/C/xampp/htdocs/template/assets/angular/services.js",
+		"/C/xampp/htdocs/template/assets/html_includes/services.html",
+		"/C/xampp/htdocs/template/assets/html_includes/portfolio.html",
+		"/C/xampp/htdocs/template/assets/angular/portfolio.js",
+		"/C/xampp/htdocs/template/assets/angular/profile.js",
+		"/C/xampp/htdocs/template/assets/html_includes/profile.html",
 		"/C/xampp/htdocs/template/assets/html_includes/nav.html",
 		"/C/xampp/htdocs/template/assets/html_includes/header.html",
 		"/C/xampp/htdocs/template/assets/angular/header.js",
@@ -316,33 +352,7 @@
 		"/C/Users/Robert Kulp/xampp_1/htdocs/RABITHOLE/json/images.json",
 		"/C/Users/Robert Kulp/xampp/htdocs/Lab2.1/scripts/json_v3.js",
 		"/C/Users/Robert Kulp/xampp/htdocs/Lab2.1/index.html",
-		"/C/Users/Robert Kulp/xampp/htdocs/Lab 2 Follow/index_1.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/css/index_1.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/scripts/ajax_script.js",
-		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/css/slideshow.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/index.1.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/css/rabit.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/index.html",
-		"/C/xampp/htdocs/images/images.sql",
-		"/C/xampp/htdocs/mentors/mentors.sql",
-		"/C/Users/Robert Kulp/Documents/SCHOOL/Spring 2015/JavaScript/Lab 4/Lab 4 Walkthrough Tutorial, Part I.html/Lesson 4/Lab 4 Walkthrough Tutorial, Part I.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/index.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/slideshow.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/scripts/jquery.js",
-		"/C/xampp/htdocs/Lab 6/test.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/footer.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/written_directions.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/reserve.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/reserve_contact.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/zzq2nu0k.t5s.txt",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/written_directions.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/rates.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/.metadata/version.ini",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/rates_footer.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/rules.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/local.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/hist_photo.css",
-		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/hist_photo.html"
+		"/C/Users/Robert Kulp/xampp/htdocs/Lab 2 Follow/index_1.html"
 	],
 	"find":
 	{
@@ -546,7 +556,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -555,15 +565,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 84321,
+						"buffer_size": 5920,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								5888,
+								5888
 							]
 						],
 						"settings":
@@ -573,6 +583,34 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+						"translation.y": 1131.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/angular/footer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -580,7 +618,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "assets/angular/indexPage.js",
 					"semi_transient": false,
 					"settings":
@@ -604,11 +642,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"semi_transient": false,
 					"settings":
 					{
@@ -631,11 +669,75 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "assets/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2500.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 5,
+					"file": "assets/angular/header.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								169
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "assets/angular/nav.js",
 					"semi_transient": false,
 					"settings":
@@ -661,75 +763,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "assets/js/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11217,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3300.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 5,
-					"file": "assets/angular/header.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 169,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "assets/angular/navControl.js",
 					"semi_transient": false,
 					"settings":
@@ -788,7 +826,7 @@
 		"cols":
 		[
 			0.0,
-			0.400439238653,
+			0.529282576867,
 			1.0
 		],
 		"rows":
