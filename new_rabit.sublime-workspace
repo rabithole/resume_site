@@ -125,15 +125,6 @@
 			}
 		},
 		{
-			"file": "assets/angular/footer.js",
-			"settings":
-			{
-				"buffer_size": 169,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "assets/angular/indexPage.js",
 			"settings":
 			{
@@ -225,6 +216,9 @@
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/template/.git/config",
+		"/C/xampp/htdocs/template/.gitignore.swp",
+		"/C/xampp/htdocs/template/assets/angular/footer.js",
 		"/C/xampp/htdocs/template/assets/html_includes/footer.html",
 		"/C/xampp/htdocs/template/assets/angular/contact.js",
 		"/C/xampp/htdocs/template/assets/html_includes/contact.html",
@@ -349,10 +343,7 @@
 		"/E/JS xampp/rte/rte.js",
 		"/E/JS xampp/rte/tools.js",
 		"/E/JS xampp/Lab 6/practice.js",
-		"/C/Users/Robert Kulp/xampp_1/htdocs/RABITHOLE/json/images.json",
-		"/C/Users/Robert Kulp/xampp/htdocs/Lab2.1/scripts/json_v3.js",
-		"/C/Users/Robert Kulp/xampp/htdocs/Lab2.1/index.html",
-		"/C/Users/Robert Kulp/xampp/htdocs/Lab 2 Follow/index_1.html"
+		"/C/Users/Robert Kulp/xampp_1/htdocs/RABITHOLE/json/images.json"
 	],
 	"find":
 	{
@@ -556,7 +547,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -586,12 +577,103 @@
 						"translation.y": 1700.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "assets/angular/footer.js",
+					"file": "assets/angular/indexPage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "assets/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3950,
+								3950
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2500.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/angular/header.js",
 					"semi_transient": false,
 					"settings":
 					{
@@ -618,126 +700,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "assets/angular/indexPage.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 50,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 44,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								44,
-								44
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 4,
-					"file": "assets/js/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11217,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3950,
-								3950
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2500.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
 					"buffer": 5,
-					"file": "assets/angular/header.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 169,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								169,
-								169
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
 					"file": "assets/angular/nav.js",
 					"semi_transient": false,
 					"settings":
@@ -763,11 +726,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
 					"file": "assets/angular/navControl.js",
 					"semi_transient": false,
 					"settings":
@@ -792,7 +755,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -826,7 +789,7 @@
 		"cols":
 		[
 			0.0,
-			0.364568081991,
+			0.384333821376,
 			1.0
 		],
 		"rows":
@@ -878,7 +841,7 @@
 		],
 		"width": 757.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
