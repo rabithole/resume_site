@@ -1,9 +1,8 @@
-$ cat .gitignore
 
-new_rabit.sublime-project
-new_rabit.sublime-workspace
-.zip
+*.sublime
+*.sublime
+*.zip
 products%2FWB0394407
 
-.ffs_db
+*.ffs_db
 
