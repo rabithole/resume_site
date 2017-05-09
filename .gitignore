@@ -1,8 +1,9 @@
 
-*new_rabit.sublime
-*.sublime
+new_rabit.sublime-workspace
+new_rabit.sublime-project
+
 *.zip
 products%2FWB0394407
 
-*.ffs_db
+sync.ffs_db
 
