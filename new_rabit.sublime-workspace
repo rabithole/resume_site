@@ -125,15 +125,6 @@
 			}
 		},
 		{
-			"file": "assets/angular/indexPage.js",
-			"settings":
-			{
-				"buffer_size": 50,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": ".gitignore",
 			"settings":
 			{
@@ -143,19 +134,11 @@
 			}
 		},
 		{
-			"file": "assets/js/practice.js",
+			"file": "assets/angular/indexPage.js",
 			"settings":
 			{
-				"buffer_size": 1173,
+				"buffer_size": 50,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "ng-include=\"'assets/html_includes/nav.html'\"",
-			"settings":
-			{
-				"buffer_size": 44,
 				"line_ending": "Windows"
 			}
 		},
@@ -169,19 +152,10 @@
 			}
 		},
 		{
-			"file": "assets/angular/header.js",
+			"contents": "ng-include=\"'assets/html_includes/nav.html'\"",
 			"settings":
 			{
-				"buffer_size": 169,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "assets/angular/nav.js",
-			"settings":
-			{
-				"buffer_size": 201,
+				"buffer_size": 44,
 				"line_ending": "Windows"
 			}
 		},
@@ -227,53 +201,13 @@
 	},
 	"file_history":
 	[
-		"/C/xampp/htdocs/template/.gitignore.swp",
-		"/C/xampp/index-1.html",
-		"/C/Users/Robert Kulp/Documents/code examples/practice and code notes/angular/js/firstAngApp.js",
-		"/C/Users/Robert Kulp/Documents/code examples/practice and code notes/angular/js/first_html.js",
-		"/C/Users/Robert Kulp/Documents/code examples/practice and code notes/practice.js",
-		"/C/Users/Robert Kulp/Documents/code examples/window-resize/windowResize.html",
-		"/C/Users/Robert Kulp/Desktop/web_projects/test/angular/personalController.js",
-		"/C/Users/Robert Kulp/Desktop/web_projects/test/scripts/landingPageAnimation.js",
-		"/C/Users/Robert Kulp/Desktop/template/assets/js/map.js",
-		"/C/Users/Robert Kulp/Desktop/web_projects/test/scripts/jqueryPractice.js",
-		"/C/Users/Robert Kulp/Desktop/web_projects/Angular/angular.js",
-		"/C/xampp/htdocs/angular-practice/angular_notes.js",
-		"/C/xampp/htdocs/template/.git/config",
-		"/C/xampp/htdocs/template/assets/angular/footer.js",
-		"/C/xampp/htdocs/template/assets/html_includes/footer.html",
-		"/C/xampp/htdocs/template/assets/angular/contact.js",
-		"/C/xampp/htdocs/template/assets/html_includes/contact.html",
-		"/C/xampp/htdocs/template/assets/angular/workprocess.js",
-		"/C/xampp/htdocs/template/assets/html_includes/workprocess.html",
-		"/C/xampp/htdocs/template/assets/angular/milestones.js",
-		"/C/xampp/htdocs/template/assets/html_includes/milestones.html",
-		"/C/xampp/htdocs/template/assets/angular/accolades.js",
-		"/C/xampp/htdocs/template/assets/html_includes/accolades.html",
-		"/C/xampp/htdocs/template/assets/angular/knowledge.js",
-		"/C/xampp/htdocs/template/assets/html_includes/knowledge.html",
-		"/C/xampp/htdocs/template/assets/angular/skills.js",
-		"/C/xampp/htdocs/template/assets/html_includes/skills.html",
-		"/C/xampp/htdocs/template/assets/angular/references.js",
-		"/C/xampp/htdocs/template/assets/html_includes/references.html",
-		"/C/xampp/htdocs/template/assets/angular/resume.js",
-		"/C/xampp/htdocs/template/assets/html_includes/resume.html",
-		"/C/xampp/htdocs/template/assets/angular/strengths.js",
-		"/C/xampp/htdocs/template/assets/html_includes/strengths.html",
-		"/C/xampp/htdocs/template/assets/html_includes/strenghts.html",
-		"/C/xampp/htdocs/template/assets/angular/services.js",
-		"/C/xampp/htdocs/template/assets/html_includes/services.html",
-		"/C/xampp/htdocs/template/assets/html_includes/portfolio.html",
-		"/C/xampp/htdocs/template/assets/angular/portfolio.js",
-		"/C/xampp/htdocs/template/assets/angular/profile.js",
-		"/C/xampp/htdocs/template/assets/html_includes/profile.html",
-		"/C/xampp/htdocs/template/assets/html_includes/nav.html",
-		"/C/xampp/htdocs/template/assets/html_includes/header.html",
+		"/H/SSD Docs/Programs/Operating Sytems DreamSpark/product keys.txt",
 		"/C/xampp/htdocs/template/assets/angular/header.js",
-		"/C/xampp/htdocs/template/assets/angular/nav.js",
-		"/C/xampp/htdocs/template/assets/angular/indexPage.js",
-		"/C/xampp/htdocs/template/assets/angular/navControl.js",
+		"/C/xampp/htdocs/template/assets/html_includes/header.html",
 		"/C/xampp/htdocs/template/assets/js/main.js",
+		"/C/xampp/htdocs/template/assets/angular/nav.js",
+		"/C/xampp/htdocs/template/assets/html_includes/nav.html",
+		"/C/Users/Robert Kulp/Documents/SCHOOL/Spring 2015/JavaScript/Lab 8 Angular/Lab 8 Walkthrough Tutorial, Part I.html/Lesson 8/Lab 8 Walkthrough Tutorial, Part I.html",
 		"/C/xampp/htdocs/template/profile-1-profile-picture-on-left.html",
 		"/C/xampp/htdocs/template/new_rabit.sublime-project",
 		"/C/xampp/htdocs/angular-practice/js/first_html.js",
@@ -288,6 +222,7 @@
 		"/C/Users/Robert Kulp/Desktop/practice/practice.html",
 		"/C/Users/Robert Kulp/Desktop/practice/practice_II/anglular_practice",
 		"/C/Users/Robert Kulp/Desktop/practice/practice_II/anglular_practice.html",
+		"/C/Users/Robert Kulp/Desktop/web_projects/Angular/angular.js",
 		"/C/Users/Robert Kulp/Desktop/template/index.html",
 		"/C/Users/Robert Kulp/Documents/school/JavaScript/cis133w_mpassala_44873/robertkulp11/private/assignment06/MagicNumber.htm",
 		"/C/Users/Robert Kulp/Documents/Javascript scritps/var g_bJSConvert = false;",
@@ -354,11 +289,50 @@
 		"/C/Users/Robert Kulp/xampp/htdocs/RABITHOLE/scripts/responsive.js",
 		"/C/Users/Robert Kulp/xampp/htdocs/RABITHOLE/css/rabit_2.css",
 		"/E/JS xampp/wcag/bookmarklet.js",
-		"/C/Users/Robert Kulp/xampp/htdocs/RABITHOLE/jQuery/jquery-1.11.3.js"
+		"/C/Users/Robert Kulp/xampp/htdocs/RABITHOLE/jQuery/jquery-1.11.3.js",
+		"/C/Users/Robert Kulp/xampp/htdocs/RABITHOLE/css/rabit.css",
+		"/C/Users/Robert Kulp/xampp/htdocs/RABITHOLE/json/sec_1_images.js",
+		"/C/Users/Robert Kulp/xampp/htdocs/RABITHOLE/json/sec_1_images.json",
+		"/E/JS xampp/Lab2/scripts/json.js",
+		"/E/JS xampp/Lab2.1/scripts/json_v3.js",
+		"/E/JS xampp/dict/bookmarklet.js",
+		"/E/JS xampp/rte/rte.js",
+		"/E/JS xampp/rte/tools.js",
+		"/E/JS xampp/Lab 6/practice.js",
+		"/C/Users/Robert Kulp/xampp_1/htdocs/RABITHOLE/json/images.json",
+		"/C/Users/Robert Kulp/xampp/htdocs/Lab2.1/scripts/json_v3.js",
+		"/C/Users/Robert Kulp/xampp/htdocs/Lab2.1/index.html",
+		"/C/Users/Robert Kulp/xampp/htdocs/Lab 2 Follow/index_1.html",
+		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/css/index_1.css",
+		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/scripts/ajax_script.js",
+		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/css/slideshow.css",
+		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/index.1.html",
+		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/css/rabit.css",
+		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/index.html",
+		"/C/xampp/htdocs/images/images.sql",
+		"/C/xampp/htdocs/mentors/mentors.sql",
+		"/C/Users/Robert Kulp/Documents/SCHOOL/Spring 2015/JavaScript/Lab 4/Lab 4 Walkthrough Tutorial, Part I.html/Lesson 4/Lab 4 Walkthrough Tutorial, Part I.html",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/index.html",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/slideshow.css",
+		"/C/Users/Robert Kulp/Desktop/web_projects/Rabithole/RABITHOLE/scripts/jquery.js",
+		"/C/xampp/htdocs/Lab 6/test.html",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/footer.css",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/written_directions.html",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/reserve.html",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/reserve_contact.css",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/zzq2nu0k.t5s.txt",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/written_directions.css",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/rates.html",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/.metadata/version.ini",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/rates_footer.css",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/rules.html",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/local.css",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/css/hist_photo.css",
+		"/C/Users/Robert Kulp/Desktop/web_projects/vista_park/vista_park/hist_photo.html"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 43.0
 	},
 	"find_in_files":
 	{
@@ -378,7 +352,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"scroll",
 			"navControl",
 			"indexPage",
 			"Angular",
@@ -558,7 +531,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -574,8 +547,8 @@
 						"selection":
 						[
 							[
-								5903,
-								5903
+								0,
+								0
 							]
 						],
 						"settings":
@@ -585,7 +558,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1651.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -593,34 +566,6 @@
 				},
 				{
 					"buffer": 1,
-					"file": "assets/angular/indexPage.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 50,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": ".gitignore",
 					"semi_transient": false,
 					"settings":
@@ -632,8 +577,8 @@
 						"selection":
 						[
 							[
-								63,
-								63
+								0,
+								0
 							]
 						],
 						"settings":
@@ -648,29 +593,58 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "assets/js/practice.js",
+					"buffer": 2,
+					"file": "assets/angular/indexPage.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1173,
+						"buffer_size": 50,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1069,
-								1069
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1297,
+								1297
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 300.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -700,105 +674,17 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 5,
-					"file": "assets/js/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11217,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3950,
-								3950
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2500.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "assets/angular/header.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 169,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								169,
-								169
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "assets/angular/nav.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 201,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								201,
-								201
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
 					"file": "assets/angular/navControl.js",
 					"semi_transient": false,
 					"settings":
@@ -810,20 +696,19 @@
 						"selection":
 						[
 							[
-								2357,
-								2357
+								104,
+								104
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 144.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -857,7 +742,7 @@
 		"cols":
 		[
 			0.0,
-			0.688140556369,
+			0.456770833333,
 			1.0
 		],
 		"rows":
@@ -916,7 +801,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 371.0,
 	"status_bar_visible": true,
 	"template_settings":
