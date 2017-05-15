@@ -31,7 +31,7 @@ var absoluteLink = function Init() {
 
 	console.log(typeof aHref);
 	console.log(aHref.length);
-	 console.log(absoluteLinks)
+	// console.log(absoluteLinks)
 
 	
 };
